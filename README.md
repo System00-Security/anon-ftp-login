@@ -24,5 +24,5 @@
 
 ``` 
 Usage :
-bash anon--ftp.sh -l list.txt
+bash anon-ftp.sh -l list.txt
 ```
